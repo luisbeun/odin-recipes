@@ -1,2 +1,2 @@
 # odin-recipes
-Jaw-clenhing recipes from the master!
+Jaw-clenching recipes from the master!
